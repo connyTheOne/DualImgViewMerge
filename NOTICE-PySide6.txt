@@ -1,0 +1,14 @@
+PySide6 (Qt for Python) - Version 6.8.2.1
+Homepage: https://pyside.org
+Source:   https://code.qt.io/cgit/pyside/pyside-setup.git/
+
+Licensing:
+PySide6 is available under both Open Source (LGPLv3/GPLv3) and commercial license.
+For more information see: https://www.qt.io/licensing/
+
+This distribution bundles unmodified PySide6 runtime libraries (dynamic).
+You may replace these libraries with a compatible build to exercise your LGPL rights.
+No modifications were made to PySide6.
+
+Trademarks:
+"Qt" and "Qt for Python" are trademarks of The Qt Company Ltd.

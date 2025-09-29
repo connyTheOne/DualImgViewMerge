@@ -25,7 +25,7 @@ DualImageViewer
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/pyqt-dual-image-viewer.git
+   git clone https://github.com/connyTheOne/DualImgViewMerge.git
    cd DualImageViewer
    ```
 

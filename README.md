@@ -1,6 +1,6 @@
-# PyQt Dual Image Viewer
+# Dual Image Viewer and Merger
 
-This project is a PyQt5 application that allows users to view and manage two images side by side. Users can load images from specified folders, navigate through them, and save the displayed images with optional filename embedding and addtional information.
+This project is a PySide6 application that allows users to view and manage two images side by side. Users can load images from specified folders, navigate through them, and save the displayed images with optional filename embedding and addtional information.
 
 ## Features
 
